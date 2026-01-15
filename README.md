@@ -75,7 +75,7 @@ This project demonstrates a **complete corporate network infrastructure** implem
 ---
 
 ## 📖 Reference
-[Project PDF](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/42354306/446c20bf-3057-49c7-b731-eee3cf1c748a/PART-B.pdf)
+[Project PDF](https://drive.google.com/file/d/1rXcsCqYbrepdHOV1-03XqSppnxpAx2TE/view?usp=drive_link)
 
 ---
 
